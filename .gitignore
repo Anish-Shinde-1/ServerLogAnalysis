@@ -1,0 +1,21 @@
+
+# Python System Files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Data and Logs
+*.log
+report.txt
+
+# Streamlit/IDE
+.streamlit/
+.vscode/
+.idea/
+
+# OS Specific
+.DS_Store
+Thumbs.db
